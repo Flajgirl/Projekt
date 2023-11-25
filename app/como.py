@@ -1,5 +1,4 @@
 import streamlit as st
-import getpass
 
 #text_number_1 = st.number_input("Číslo jedna")
 #text_number_2 = st.number_input("Číslo dvě")
